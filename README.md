@@ -5,7 +5,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/chagasleandro" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://disney-plus-clone-chi.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://iphone13-clone.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -23,10 +23,9 @@ Repositório do projeto de clone da página do iPhone 13 com funcionaliades, par
 
 The following tools were used in this project:
 
-- [React](https://pt-br.reactjs.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 
 ## :white_check_mark: Requirements ##
 
